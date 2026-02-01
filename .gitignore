@@ -24,6 +24,7 @@ _autosave-*
 \#auto_saved_files\#
 fp-info-cache
 gerber/
+*.FCBak
 
 # Netlist files (exported from Eeschema)
 *.net
