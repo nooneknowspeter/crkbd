@@ -39,3 +39,5 @@ gerber/
 # Order files
 order/
 .idea/
+
+.direnv
