@@ -16,6 +16,13 @@
     - [x] usb dongle magnets; slot and cover
 - [x] power switch cavity, 4.4 x 8.6mm
 - [x] side display cavity, 26.8 x 11.3mm, 3.2mm screen to pcb, 12.1mm screen to pin
+    - [ ] air vents
 - [x] portability, magnetic hollow plate between halves
 - [x] fillet, smooth edges
 - [x] feet cavity
+- [ ] increase model detail
+    - [ ] model feet
+    - [ ] model magnets
+- [ ] add magnetic puck; mount halves together with keys exposed
+- [ ] add keyboard strap
+- [ ] add magnetic attachment for strapping; strap to legs
