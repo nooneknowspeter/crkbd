@@ -20,9 +20,7 @@
 - [x] portability, magnetic hollow plate between halves
 - [x] fillet, smooth edges
 - [x] feet cavity
-- [ ] increase model detail
-    - [ ] model feet
-    - [ ] model magnets
-- [ ] add magnetic puck; mount halves together with keys exposed
-- [ ] add keyboard strap
+- [x] increase model detail
+    - [x] model feet
+    - [x] model magnets
 - [ ] add magnetic attachment for strapping; strap to legs
