@@ -13,6 +13,7 @@
             packages = with pkgs; [ 
 							bambu-studio 
 							freecad 
+							graphviz
 							orca-slicer 
 
 							treefmt
